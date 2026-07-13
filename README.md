@@ -174,7 +174,7 @@ Opens at `http://localhost:8501`
 - ✅ `summary.docx` — Executive report
 - ✅ `charts/` — All visualization PNGs
 - ✅ GitHub Repository — This repo
-- 🌐 Live Streamlit App — [Link will be added after deployment]
+- 🌐 Live Streamlit App — https://salesforecasting-aswhafazejvzseosr4c6or.streamlit.app/
 
 ---
 
